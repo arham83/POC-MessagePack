@@ -1,0 +1,7 @@
+Message Type,Serialized Message Size(Bytes),SerializingTime(ns),DeserializingTime(ns)
+Simple Message having two ppts,39,10430,9630
+Simple Message having four ppts and an array,64,5150560,2199760
+Message having Nested Object,37,8776380,2271080
+Message having Dictionary and Array,60,4343160,2334140
+Message having dictionary with object as value type,97,5674140,3323930
+Message having nested structure,49,9470200,2536100

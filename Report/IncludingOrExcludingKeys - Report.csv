@@ -1,0 +1,3 @@
+Serialized Message Size(Bytes),Keys,SerializingTime(ns),DeserializingTime(ns)
+16,Including Key Attribute,13948400,3149100
+52,Excluding Key Attribute,49980000,10243500

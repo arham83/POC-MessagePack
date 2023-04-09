@@ -1,0 +1,5 @@
+LZ4 Compression,MessageSize(Bytes),Serialized Message Size(Bytes),SerializingTime(ns),DeserializingTime(ns)
+Disabled,126141,7951,735830,1111050
+Disabled,203780,12828,1111250,1710190
+Disabled,308782,19389,2385530,3515160
+Disabled,458021,28447,2761420,4205160

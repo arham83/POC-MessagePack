@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4NXPKk9dVsk2UvcXYfI+dd1Vpy/Floy15Tu/YqKxn6xiNG3GD14XGIY/6yrRS7DLF4dneJ+WEx8nAhtAel1Fjg==",
+  "success": true,
+  "projectFilePath": "D:\\LayerOne\\Project - MessagePack\\POC - MessagePack\\POC - MessagePack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arham\\.nuget\\packages\\messagepack\\2.5.108\\messagepack.2.5.108.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\messagepack.annotations\\2.5.108\\messagepack.annotations.2.5.108.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\microsoft.net.stringtools\\17.4.0\\microsoft.net.stringtools.17.4.0.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Arham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

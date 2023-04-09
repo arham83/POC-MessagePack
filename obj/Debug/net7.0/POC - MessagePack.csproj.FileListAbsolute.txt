@@ -1,0 +1,20 @@
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.csproj.AssemblyReference.cache
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.AssemblyInfoInputs.cache
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.AssemblyInfo.cs
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.csproj.CoreCompileInputs.cache
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\POC - MessagePack.exe
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\POC - MessagePack.deps.json
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\POC - MessagePack.runtimeconfig.json
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\POC - MessagePack.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\POC - MessagePack.pdb
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\MessagePack.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.csproj.CopyComplete
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\refint\POC - MessagePack.dll
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.pdb
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\POC - MessagePack.genruntimeconfig.cache
+D:\LayerOne\Project - MessagePack\POC - MessagePack\obj\Debug\net7.0\ref\POC - MessagePack.dll
